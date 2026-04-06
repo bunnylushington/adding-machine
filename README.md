@@ -16,19 +16,31 @@ The entire score is built from a shared palette of synthesized sounds:
 ### 1. `computer_brain.scd` (Main Theme)
 The foundational piece of the production. It features the full ensemble: the 5/4 clock, a heavy 9/4 polyrhythmic bass line, urgent "data alerts" that accelerate over 64 measures, and atmospheric mallet swells. It represents the central nervous system of the machine.
 
-### 2. `scene2_the_ledger.scd` (The Office)
-**Context**: Scene 2 - The Monotony of Labor.
-**Sonic Focus**: Stripped down to pure repetition. It features a "Fluorescent Light" hum drone and constant, unvarying typing. The bass is removed to emphasize the thin, cold atmosphere of the accounting floor.
+### 2. `scene1_the_bedroom.scd` (Domestic Irritation)
+**Context**: Scene 1 - The Bedroom.
+**Sonic Focus**: Entrapment and nagging. A heavy, slow clock is paired with a high-pitched, repetitive "nagging" sine-wave pulse.
 
-### 3. `scene3_the_breakdown.scd` (The Breakdown)
+### 3. `scene2_the_ledger.scd` (The Office)
+**Context**: Scene 2 - The Monotony of Labor.
+**Sonic Focus**: Pure repetition. It features a "Fluorescent Light" hum drone and constant, unvarying typing. The bass is removed to emphasize the thin, cold atmosphere of the accounting floor.
+
+### 4. `scene3_the_breakdown.scd` (The Breakdown)
 **Context**: Scene 3 - Mr. Zero's Firing and Outburst.
 **Sonic Focus**: System failure. The urgent "Data Alert" alarms accelerate to chaotic speeds, and dense glitch bursts simulate a buffer overload as Zero’s world collapses.
 
-### 4. `scene6_the_cage.scd` (The Cage)
+### 5. `scene4_the_party.scd` (The Social Machine)
+**Context**: Scene 4 - The Party.
+**Sonic Focus**: Hollow Conformity. A "chatter" of mechanical keyboard stabs and high-end glitches that sound like meaningless, fragmented conversation.
+
+### 6. `scene5_the_graveyard.scd` (The Graveyard Hum)
+**Context**: Scene 5 - The Graveyard.
+**Sonic Focus**: Surreal Guilt. A deep, resonant "wind" drone and occasional "ghostly" mallet rolls that recall the main theme's harmonics in a desolate space.
+
+### 7. `scene6_the_cage.scd` (The Cage)
 **Context**: Scene 6 - The Trial and Prison.
 **Sonic Focus**: Oppression and Weight. The tempo slows to a heavy 60 BPM. The sound is dominated by the sub-frequency "Rumbly Thud" and a deep, bit-crushed bass with dark, boxy reverb, representing the finality of the system's judgement.
 
-### 5. `scene7_the_elysian_fields.scd` (The Elysian Fields)
+### 8. `scene7_the_elysian_fields.scd` (The Elysian Fields)
 **Context**: Scene 7 - The Surreal Afterlife.
 **Sonic Focus**: Ethereal Memory. The mechanical elements are softened with long attack envelopes and heavy reverb. The mallet rolls become the primary texture, creating overlapping waves of "ghostly" data notes.
 
