@@ -1,11 +1,11 @@
 PROMPT 1: can you run supercollider from the command line?
 PROMPT 2: can you attempt to run my file?
-PROMPT 3: are you able to correctt his compilation error?
+PROMPT 3: are you able to correct this compilation error?
 PROMPT 4: i manually exited the SC. no worries. i wonder if you could make this a little longer, 64 measures, with some variation every 16 measure, and add a bass line. the bass should be in 9/4 and not be too monotonous.
-PROMPT 5: let's increase the volume of the bass (or decrease our main rhythm). i would also like to add a morphing drone sound. the effect should remain clowtrophobic.
+PROMPT 5: let's increase the volume of the bass (or decrease our main rhythm). i would also like to add a morphing drone sound. the effect should remain claustrophobic.
 PROMPT 6: can we add a little reverb to the bass and ensure that the drone sound is moved up in the mix?
 PROMPT 7: that did not work well. i get a "pfft" at the beginning of the piece and then nothing else.
-PROMPT 8: there's still an issue. i get snippets of the music every so many beats but silence otherwise. as if a global amp enveloper were on an LFO or something. this is incorrect, i'd like the sound on all the time.
+PROMPT 8: there's still an issue. i get snippets of the music every so many beats but silence otherwise. as if a global amp envelope were on an LFO or something. this is incorrect, i'd like the sound on all the time.
 PROMPT 9: well that's pretty nice. i think i need some action in the higher end of the frequency spectrum. perhaps a stab with an echo, reminiscent of a typewriter or typing on a computer keyboard? also, can we lower the drone volume by about 10%?
 PROMPT 10: nice. how about a thud on beat one of each 5/4 measure? not too loud just something rumbly?
 PROMPT 11: maybe a little more volume on the thud, i'm losing it in the mix.
@@ -13,13 +13,15 @@ PROMPT 12: excellent. let's work on this bassline a little. can we lower the vol
 PROMPT 13: i'm looking for a way to add "urgency" to the piece. the bass line does a good job with its timing, i wonder if there's an additional sound that can help us out. we still have a lot of mid-frequency space to play with. thoughts?
 PROMPT 14: oops. we have a compile error: [Error Text]
 PROMPT 15: can we bump up the volume of the dataAlert? i'm losing it in the mix.
-PROMPT 16: excellent. can be bring down the drone volume 10%?
-PROMPT 17: now, i'd like a little "rolling" sound, like what we would have if we were using a cymbol with mallets, every so many beats. let's start with every 8 and then we can adjust from there. it should not be loud exactly but should punctuate the passage for time.
-PROMPT 18: i think we should bring the foundational rhythm track up in the mix about 10%. let's increase the length of the cymbol roll. let's also remove the last note of the three note bass phrase every fifth iteration.
-PROMPT 19: ok. this is really nice. my intention is to use this as the musical theme in the mid-centuary play "the adding machine" what i would like to do is take this theme and the themes of the play and create four more incidental pieces that retain some of the same elements but mix things up. these new pieces will be incidental music.
-PROMPT 20: these should be four new files (maybe named with the wcenes)
+PROMPT 16: excellent. can we bring down the drone volume 10%?
+PROMPT 17: now, i'd like a little "rolling" sound, like what we would have if we were using a cymbal with mallets, every so many beats. let's start with every 8 and then we can adjust from there. it should not be loud exactly but should punctuate the passage for time.
+PROMPT 18: i think we should bring the foundational rhythm track up in the mix about 10%. let's increase the length of the cymbal roll. let's also remove the last note of the three note bass phrase every fifth iteration.
+PROMPT 19: ok. this is really nice. my intention is to use this as the musical theme in the mid-century play "the adding machine" what i would like to do is take this theme and the themes of the play and create four more incidental pieces that retain some of the same elements but mix things up. these new pieces will be incidental music.
+PROMPT 20: these should be four new files (maybe named with the scenes)
 PROMPT 21: can you write a readme.md that outlines the files we have here and the thinking behind them?
 PROMPT 22: let's commit the readme, then create a new github repository, bunnylushington/adding-machine
 PROMPT 23: can we try that again now that i've auth'd with gh?
 PROMPT 24: is there a way to write a transcript of our conversation (i'm mostly interested in my prompts) to a file?
 PROMPT 25: excellent. can you take that file and create a new building-sounds.txt file containing just the prompts i provided? (your output is interesting but i'm looking to share our process for creating these tracks.)
+PROMPT 26: yeah ... i just read my transcript and my spelling is awful. can we clean that up so people don't think i'm illiterate? :)
+PROMPT 27: well yes actually. can you provide tracks for a few more of the scenes (and keep the readme file updated appropriately)?
