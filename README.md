@@ -46,6 +46,31 @@ The foundational piece of the production. It features the full ensemble: the 5/4
 
 ---
 
+## Quick Start for Collaborators (macOS)
+
+This guide is for theater collaborators who need to run the soundscape on their Mac.
+
+### 1. Download the Project
+- Go to the [Releases](https://github.com/bunnylushington/adding-machine/releases) page.
+- Download the `Source code (zip)` for Version 1.0.0.
+- Find the downloaded `.zip` file in your **Downloads** folder and double-click it to unzip.
+
+### 2. Install SuperCollider
+- Download and install **SuperCollider** from the official site: [https://supercollider.github.io/](https://supercollider.github.io/)
+- Drag the SuperCollider icon to your **Applications** folder.
+
+### 3. Running the Soundscape
+1. Open the **SuperCollider** application.
+2. Go to `File > Open` and navigate to the unzipped project folder.
+3. Select a scene file (e.g., `scene2_the_ledger.scd`) and click **Open**.
+4. **Boot the Audio Server**: Press `Cmd + B`. You should see "server running" in green at the bottom right of the window.
+5. **Play the Scene**: Click anywhere inside the code (between the parentheses) and press `Cmd + Enter`. *Note: The first time you play a scene, it may take a few seconds to start as the audio engine warms up.*
+6. **Stop the Sound**: Press `Cmd + .` (Command and Period) at any time to kill all sound.
+
+*Note: For advanced users, you can also run scenes via Terminal using the command provided in the Execution section below.*
+
+---
+
 ## Execution
 The pieces are written in SuperCollider (SC). To run a scene from the command line:
 
